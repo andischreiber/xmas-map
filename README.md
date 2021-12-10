@@ -1,0 +1,1 @@
+# workadventure xmas-map
