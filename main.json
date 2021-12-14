@@ -30,7 +30,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"..\/sound\/jingle-bells-violin-main.mp3"
+                 "value":"\/sound\/jingle-bells-violin-main.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
